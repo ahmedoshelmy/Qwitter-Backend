@@ -15,7 +15,7 @@
 - User Relations management (follow, mute, block)
 - Timeline/ For you 
 - Real-time notifications
-- Rela-time Chatting 
+- Real-time Chatting 
 
 ## Technologies Used
 
