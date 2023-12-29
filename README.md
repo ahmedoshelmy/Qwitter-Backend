@@ -10,7 +10,7 @@
 - [Documentaion](#documentaion)
 
 ## Features  
-- User authentication (signup, login, logout)
+- User authentication and authorization (signup, login, Google Authentication)
 - Tweet creation, retrieval, update, and deletion
 - User Relations management (follow, mute, block)
 - Timeline/ For you 
